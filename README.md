@@ -1,0 +1,2 @@
+# Light-Control-Using-ESP8266-ESP-12E-NodeMCU-programming-with-Arduino-IDE
+Connecting the Esp8266 to the Wi-Fi router using SSID and password of our Home network Wifi , where the esp8266 connect to our wifi and create a webserver, which can be accessed by looking through the serial Monitor of the Arduino window or you can also log into your Wifi router and check for the list of clients connected to your Wi-Fi router.
